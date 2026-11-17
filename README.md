@@ -12,7 +12,7 @@
 - [Platzi_plantillas](https://platzi.com/blog/amb-ejemplos-portafolios-web/)
 - [CodePen_plantillas](https://codepen.io/trending)
 
-- https://share.google/V8tUz2JGCTQBeZGiA
+- [NoCode](https://share.google/V8tUz2JGCTQBeZGiA)
 
 ## Los 10 proyectos de GitHub con más estrellas  
 - [Proyectos](https://medium.com/@falniak95/how-to-explore-the-top-10-most-starred-github-projects-and-why-you-should-e5390a2c93f7)
