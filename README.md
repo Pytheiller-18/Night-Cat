@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./night-cat-banner.jpg" alt="Night-Cat Banner" width="100%">
+</p>
+
 # Night-Cat 🐈‍⬛🌙
 
 ¡Hola! 👋 Este repositorio es solo un archivo de prueba. Su propósito principal es guardar una colección de páginas web de inspiración.
@@ -11,7 +15,6 @@
 - [Wix_Plantillas](https://es.wix.com/website/templates/html/all/2)
 - [Platzi_plantillas](https://platzi.com/blog/amb-ejemplos-portafolios-web/)
 - [CodePen_plantillas](https://codepen.io/trending)
-
 - [NoCode_Export](https://share.google/V8tUz2JGCTQBeZGiA)
 
 ## Los 10 proyectos de GitHub con más estrellas  
