@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./night-cat-banner.jpg" alt="Night-Cat Banner" width="100%">
+  <img src="./New_Nigth_Cat.jpg" alt="Night-Cat Banner" width="100%">
 </p>
 
 # Night-Cat 🐈‍⬛🌙
